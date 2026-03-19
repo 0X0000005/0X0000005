@@ -8,3 +8,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0X0000005/0X0000005/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0X0000005/0X0000005/output/github-contribution-grid-snake.svg">
 </picture>
+
+![My GitHub Game](game.gif)
